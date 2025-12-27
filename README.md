@@ -20,12 +20,12 @@
 
 - When you are on the main screen of the Save Manager, or inside any folder (as shown in the image below), tap the **“Load Files”** button located at the bottom of the screen.
 
-![Preview](images/1.png)
+![Preview](assets/1.png)
 
 - A system file picker will open. Simply select the files you want to load.
 - If the selected files already exist in the app’s storage, they will be **automatically replaced**.
 
-![Preview](images/2.png)
+![Preview](assets/2.png)
 
 ---
 
@@ -34,14 +34,14 @@
 - To extract files to internal storage, **long-press** a file to enter selection mode.
 - You can then tap additional files to select multiple items, as shown in the image below.
 
-![Preview](images/3.png)
+![Preview](assets/3.png)
 
 - Once files are selected, the bottom bar will change and display the following buttons:
   - **Extract (X)**
   - **Cancel**
   - **Delete**
 
-![Preview](images/4.png)
+![Preview](assets/4.png)
 
 - To extract the selected file(s), tap **Extract (X)**.  
   A dialog will appear asking you to choose the destination folder where the files will be saved.
